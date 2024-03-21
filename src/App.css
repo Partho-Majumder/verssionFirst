@@ -196,3 +196,18 @@ column-gap: 10px;
   background-color: bisque;
   font-variant: small-caps;
 }
+#sliders{
+  width: 100%;
+  padding: 20px 0;
+}
+.slidersWarrpper{
+  width: 100%;
+  background: #000;
+  display: flex;
+  column-gap: 20px;
+}
+.slides{
+  width: 300px;
+  height: 250px;
+  background: #d63030;
+}
